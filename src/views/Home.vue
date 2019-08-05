@@ -1,13 +1,9 @@
-<template>
-  <HelloWorld />
+<template lang="pug">
+  .title.red--text.text-center Попробуйте войти в профиль
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld';
-
 export default {
-  components: {
-    HelloWorld,
-  },
+
 };
 </script>
